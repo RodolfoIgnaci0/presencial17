@@ -1,0 +1,3 @@
+Producto1, 10, 20, 30
+Producto2, 0, 5, 2
+Producto3, 30, 10, 3
